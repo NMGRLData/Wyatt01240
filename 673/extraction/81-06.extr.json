@@ -1,0 +1,34 @@
+{
+    "beam_diameter": "2.0",
+    "cleanup_duration": 30.0,
+    "commit": "bcc0b9a852d0e170cccb347ee803d2e41840a41f",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "",
+    "extract_value": 2.5,
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "221-hole",
+    "load_name": "C0111",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 175,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 5.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "221-hole",
+    "videos": [],
+    "weight": 0
+}
